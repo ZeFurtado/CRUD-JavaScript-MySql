@@ -1,0 +1,1 @@
+alert("Você está na página inicial");
